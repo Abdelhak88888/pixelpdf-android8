@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PixelPDF</string>
+
+    <!-- Huawei Ads App ID: REPLACE with yours from AppGallery Connect -->
+    <string name="huawei_ads_app_id">10000000</string>
+
+    <!-- Huawei Ads slot IDs: REPLACE with the ones from AGC -->
+    <string name="huawei_banner_slot">testw6vs28auh3</string>
+    <string name="huawei_reward_slot">testx9dtjwj8hp</string>
+    <string name="huawei_interstitial_slot">testb4znbuh3n2</string>
+
+    <!-- Huawei IAP product IDs -->
+    <string name="iap_pro_product">pixelpdf_pro</string>
+</resources>

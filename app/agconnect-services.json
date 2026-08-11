@@ -1,0 +1,25 @@
+{
+  "project_info": {
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "project_id": "YOUR_PROJECT_ID",
+    "storage_bucket": "YOUR_PROJECT_ID.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "YOUR_AGCONNECT_APP_ID",
+        "android_client_info": {
+          "package_name": "com.pixelpdf.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "appgallery": {
+          "app_id": "YOUR_AGC_APP_ID"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
